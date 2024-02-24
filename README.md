@@ -5,4 +5,4 @@ Video: https://www.youtube.com/watch?v=14YFSsRf-YI
 
 Application: https://sites.google.com/view/collegeofscripting/topalian_javascript_trigonometry_pie_menu
 
-![Topalian_JavaScript_Frames_Per_Second](https://pbs.twimg.com/media/GG8TPXYXsAAcwPH?format=png&name=small)
+![Photo](https://pbs.twimg.com/media/GG8TPXYXsAAcwPH?format=png&name=small)
